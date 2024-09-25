@@ -1,6 +1,7 @@
 # PowerPivot_CoffeeCustomers
 
-![Uploading pexels-lucaspezeta-2112749 (1).jpg…]()
+![pexels-lucaspezeta-2112749](https://github.com/user-attachments/assets/8a757676-d10c-45bb-99ff-e3f191aa65b9)
+
 
 # Analyzing Data using PowerPivot in Excel
 
